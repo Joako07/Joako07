@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+🚩Languages
+image image image
+
+📌Frameworks
+image
+
+⚙Tools
+image image image image image image image
+
+✳IDE's
+image image image
+
 <!--
 **Joako07/Joako07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
