@@ -1,4 +1,4 @@
-<img src="/images/Global.png" class="img-fluid" alt="...">
+<img src="/images/Global.png" class="img-fluid" width:"300" height:"150">
 
 ### Hi there 👋
 
