@@ -1,6 +1,7 @@
+<img src="/images/Global.png" class="img-fluid" alt="...">
+
 ### Hi there 👋
 
-<img src="/images/presentacion.webp" class="img-fluid" alt="...">
 
 🚩Languages
 ![image](https://user-images.githubusercontent.com/61031521/133442198-6aaec51b-2fc8-4872-946e-b784f155d5da.png)
