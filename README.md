@@ -1,7 +1,7 @@
 ### Welcome!! 👋
 ### 💻 I'm Joaquin Alvaez and I'm a Backend Develope!!!💻
 
-<img src="/images/Global.png" width="700" class="img-fluid" >
+<img src="/images/Global.png" width="900" class="img-fluid" >
 
 <h3>🚩Languages</h3>
 
