@@ -1,20 +1,17 @@
 ### Welcome!! 👋
 ### 💻 I'm Joaquin Alvaez and I'm a Backend Develope!!!💻
 
+<h4>
 <img src="/images/Global.png" class="img-fluid" >
-
+</h4>
+ 
 <h3>🚩Languages</h3>
 
 ![image](https://user-images.githubusercontent.com/61031521/133442198-6aaec51b-2fc8-4872-946e-b784f155d5da.png)
+
+<h4>
 ![image](https://user-images.githubusercontent.com/images/6132222.png wheight)
-<div class="css">
-<img src="/images/6132222.png" class="img-fluid" >
-</div>
- 
-img {
- max-width: 10%;
- max-height: 10%;
-}
+</h4>
 
 <h3>📌Frameworks</h3>
 
