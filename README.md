@@ -8,10 +8,17 @@
 
 ![image](https://user-images.githubusercontent.com/61031521/133442198-6aaec51b-2fc8-4872-946e-b784f155d5da.png)
 ![image](https://user-images.githubusercontent.com/images/6132222.png wheight)
+<div class="css">
 <img src="/images/6132222.png" class="img-fluid" >
+</div>
+ 
 img {
- max-width: 20%;
- max-height: 20%;
+ max-width: 100%;
+ max-height: 100%;
+}
+.css {
+ height: 200px;
+ width: 200px;
 }
 
 <h3>📌Frameworks</h3>
