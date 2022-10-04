@@ -1,5 +1,3 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-
 ### Welcome!! 👋
 ### 💻 I'm Joaquin Alvaez and I'm a Backend Develope!!!💻
 
@@ -14,12 +12,8 @@
 </div>
  
 img {
- max-width: 100%;
- max-height: 100%;
-}
-.css {
- height: 200px;
- width: 200px;
+ max-width: 10%;
+ max-height: 10%;
 }
 
 <h3>📌Frameworks</h3>
