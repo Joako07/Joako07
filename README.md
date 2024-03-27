@@ -1,5 +1,5 @@
 ### Welcome!! 👋
-### 💻 I'm Joaquin Alvarez and I'm a Backend Develope!!!💻
+### 💻 I'm Joaquin Alvarez and I'm a Backend Developer!!!💻
 
 <img src="/images/Global.png" class="img-fluid" >
 
