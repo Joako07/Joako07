@@ -6,7 +6,7 @@
 <img src="/images/Global.png" class="img-fluid" >
 
 <h2>🚩SKILLS</h2>
--------------------
+
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,docker,cpp,ubuntu&theme=dark&perline=15" class="img-fluid" >
 
 <!--
