@@ -10,6 +10,7 @@
 <h3>📌Frameworks</h3>
 
 <img src="/images/Spring.png" class="img-fluid" >
+<img src="https://skillicons.dev/icons?i=spring&theme=dark&perline=15">
 
 <h3> 💾 Database</h3>
 
