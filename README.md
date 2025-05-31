@@ -1,5 +1,7 @@
 ### Welcome!! 👋
 ### 💻 I'm Joaquin Alvarez and I'm a Backend Developer!!!💻
+👋 Hi! I'm Joaquín Álvarez, a passionate Backend Developer with a strong focus on building web applications.
+💻 I specialize in Java, working mainly with Spring Boot to develop efficient and maintainable backend solutions.
 
 <img src="/images/Global.png" class="img-fluid" >
 
